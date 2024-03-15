@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan kumar maurya</h1>
-<h3 align="center">A passionate Full Stack  developer from India</h3>
+# 💫 About Me:
+- 🔭 I’m currently working on DSA and Web Development
+- 🌱 I’m currently a Full Stack Developer.
+- 💬 Ask me about CPP, MERN development etc.
+- 📫 How to reach me: mauryaaryan2710@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmaurya001&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmaurya001" /> </p>
 
