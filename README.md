@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on DSA and Web Development
 - 🌱 I’m currently a Full Stack Developer.
 - 💬 Ask me about CPP, MERN development etc.
-- 📫 How to reach me: mauryaaryan2710@gmail.com
+- 📫 How to reach me:
+  - Email: mauryaaryan2710@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanmaurya001&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmaurya001" /> </p>
 
