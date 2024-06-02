@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm  Aryan kumar maurya</h1>
+<h1 align="center">Hi 👋, 
+  I'm  Aryan kumar maurya</h1>
 # 💫 About Me:
 - 🔭 I’m currently working on DSA and Web Development
 - 🌱 I’m currently a Full Stack Developer.
